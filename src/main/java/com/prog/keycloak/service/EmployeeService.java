@@ -2,10 +2,10 @@ package com.prog.keycloak.service;
 
 import com.prog.keycloak.entity.Employee;
 import com.prog.keycloak.repository.EmployeeRepository;
-import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import javax.annotation.PostConstruct;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;

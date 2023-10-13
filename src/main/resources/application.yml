@@ -5,3 +5,10 @@ spring:
   h2:
     console:
       enabled: true
+
+keycloak:
+  realm: javatechie
+  auth-server-url: http://localhost:9090
+  resource: springboot-keycloak
+  public-client: true
+  bearer-only: true
