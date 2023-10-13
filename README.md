@@ -1,0 +1,1 @@
+This project was created based on the tutorial from the YouTube video titled "Securing Spring Boot Microservices with Keycloak using OpenID | OAuth2.0 | JavaTechie", available at [https://www.youtube.com/watch?v=KpITcN7O53Y&list=PLVz2XdJiJQxxWhFkucZBoMxeYE6qTgEF8](https://www.youtube.com/watch?v=La082JsJoH4)https://www.youtube.com/watch?v=La082JsJoH4.
